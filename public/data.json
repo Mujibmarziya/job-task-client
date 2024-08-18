@@ -1,0 +1,402 @@
+[
+    {
+        "id":1,
+      "productName": "Wireless Mouse",
+      "productImage": "https://i.ibb.co/9gmVbfs/kelly-sikkema-K5d-An1g-OFEc-unsplash.jpg",
+      "description": "Ergonomic wireless mouse with adjustable DPI.",
+      "price": 29.99,
+      "category": "Electronics",
+      "ratings": 4.5,
+      "creationDate": "2024-08-18T12:34:56Z"
+    },
+    {
+        "id":2,
+      "productName": "Bluetooth Speaker",
+      "productImage": "https://i.ibb.co/p2TrNJM/vinit-vispute-Ip-Iq-Jwxdiog-unsplash.jpg",
+      "description": "Portable Bluetooth speaker with deep bass.",
+      "price": 49.99,
+      "category": "Electronics",
+      "ratings": 4.7,
+      "creationDate": "2024-08-17T11:12:30Z"
+    },
+    {
+        "id":3,
+      "productName": "Gaming Keyboard",
+      "productImage": "https://i.ibb.co/qFnJTwh/muha-ajjan-s-L2-BRR1cuv-M-unsplash.jpg",
+      "description": "Mechanical keyboard with customizable RGB lighting.",
+      "price": 79.99,
+      "category": "Electronics",
+      "ratings": 4.6,
+      "creationDate": "2024-08-16T10:00:00Z"
+    },
+    {
+        "id":4,
+      "productName": "Smartphone Stand",
+      "productImage": "https://i.ibb.co/BC5q5p3/martin-becker-27-Zj8-F5-DWo-unsplash.jpg",
+      "description": "Adjustable stand for smartphones and tablets.",
+      "price": 15.99,
+      "category": "Accessories",
+      "ratings": 4.2,
+      "creationDate": "2024-08-15T14:23:43Z"
+    },
+    {
+        "id":5,
+      "productName": "Noise Cancelling Headphones",
+      "productImage": "https://i.ibb.co/C8ZsxGC/c-d-x-PDX-a-82obo-unsplash.jpg",
+      "description": "Over-ear noise-cancelling headphones with Bluetooth.",
+      "price": 199.99,
+      "category": "Electronics",
+      "ratings": 4.8,
+      "creationDate": "2024-08-14T09:45:12Z"
+    },
+    {
+        "id":6,
+      "productName": "Laptop Backpack",
+      "productImage": "https://i.ibb.co/58pNXQT/cyberbackpack-com-jz-F3-PYBnhi-Y-unsplash.jpg",
+      "description": "Waterproof backpack with laptop compartment.",
+      "price": 59.99,
+      "category": "Accessories",
+      "ratings": 4.3,
+      "creationDate": "2024-08-13T08:32:19Z"
+    },
+    {
+        "id":7,
+      "productName": "Fitness Tracker",
+      "productImage": "https://i.ibb.co/8dZCL0z/fitnish-media-q8-Emkm9ooig-unsplash.jpg",
+      "description": "Wearable fitness tracker with heart rate monitor.",
+      "price": 99.99,
+      "category": "Wearables",
+      "ratings": 4.5,
+      "creationDate": "2024-08-12T13:56:45Z"
+    },
+    {
+        "id":8,
+      "productName": "4K Monitor",
+      "productImage": "https://i.ibb.co/KsHqv2r/bimbingan-islam-psty37x-Bm98-unsplash.jpg",
+      "description": "Ultra HD 4K monitor with 27-inch display.",
+      "price": 329.99,
+      "category": "Electronics",
+      "ratings": 4.7,
+      "creationDate": "2024-08-11T15:22:30Z"
+    },
+    {
+        "id":9,
+      "productName": "Running Shoes",
+      "productImage": "https://i.ibb.co/4MHKy8g/greg-rosenke-GAGed6-WJo-OY-unsplash.jpg",
+      "description": "Lightweight running shoes with breathable mesh.",
+      "price": 89.99,
+      "category": "Footwear",
+      "ratings": 4.4,
+      "creationDate": "2024-08-10T16:00:15Z"
+    },
+    {
+        "id":10,
+      "productName": "Smartwatch",
+      "productImage": "https://i.ibb.co/CsZ9yBD/tyler-hendy-Mp0-Sr-Dp-VE1-Q-unsplash.jpg",
+      "description": "Smartwatch with GPS and fitness tracking.",
+      "price": 149.99,
+      "category": "Wearables",
+      "ratings": 4.6,
+      "creationDate": "2024-08-09T17:43:29Z"
+    },
+    {
+        "id":11,    
+          "productName": "Electric Kettle",
+      "productImage": "https://i.ibb.co/BnFLTNq/engin-akyurt-p-VD5-AIp-HNh-U-unsplash.jpg",
+      "description": "Stainless steel electric kettle with auto shut-off.",
+      "price": 39.99,
+      "category": "Home Appliances",
+      "ratings": 4.3,
+      "creationDate": "2024-08-08T12:12:12Z"
+    },
+    {
+        "id":12,
+      "productName": "Action Camera",
+      "productImage": "https://i.ibb.co/k0mQ6Y6/sebastian-pichler-MDGpwp-MY2-Ws-unsplash.jpg",
+      "description": "4K waterproof action camera with WiFi connectivity.",
+      "price": 249.99,
+      "category": "Electronics",
+      "ratings": 4.8,
+      "creationDate": "2024-08-07T13:33:21Z"
+    },
+    {
+        "id":13,
+      "productName": "Wireless Charger",
+      "productImage": "https://i.ibb.co/V9NMH3j/matteo-grobberio-i-E-Ms-Y-8v-Ew-unsplash.jpg",
+      "description": "Fast wireless charger with multiple device compatibility.",
+      "price": 24.99,
+      "category": "Electronics",
+      "ratings": 4.2,
+      "creationDate": "2024-08-06T14:44:44Z"
+    },
+    {
+        "id":14,
+      "productName": "Portable Power Bank",
+      "productImage": "https://i.ibb.co/3mL5L36/gomi-CY4m-Vp-Rv-Pxc-unsplash.jpg",
+      "description": "10,000mAh portable power bank with dual USB output.",
+      "price": 29.99,
+      "category": "Electronics",
+      "ratings": 4.6,
+      "creationDate": "2024-08-05T15:55:55Z"
+    },
+    {
+        "id":15,
+      "productName": "Coffee Maker",
+      "productImage": "https://i.ibb.co/0tQK6fz/georgi-petrov-q-Tgbkj6-YCPU-unsplash.jpg",
+      "description": "Programmable coffee maker with 12-cup capacity.",
+      "price": 69.99,
+      "category": "Home Appliances",
+      "ratings": 4.4,
+      "creationDate": "2024-08-04T09:09:09Z"
+    },
+    {
+        "id":16,
+      "productName": "Smart Light Bulb",
+      "productImage": "https://i.ibb.co/PxCqwNS/jakub-zerdzicki-HXp-G1-S-INN8-unsplash.jpg",
+      "description": "Smart light bulb with adjustable brightness and color.",
+      "price": 19.99,
+      "category": "Home Automation",
+      "ratings": 4.5,
+      "creationDate": "2024-08-03T08:08:08Z"
+    },
+    {
+        "id":17,
+      "productName": "Electric Toothbrush",
+      "productImage": "https://i.ibb.co/LCgCLC9/sanju-pandita-SG7-PWB75-JO4-unsplash.jpg",
+      "description": "Rechargeable electric toothbrush with multiple modes.",
+      "price": 59.99,
+      "category": "Personal Care",
+      "ratings": 4.7,
+      "creationDate": "2024-08-02T07:07:07Z"
+    },
+    {
+        "id":18,
+      "productName": "Foldable Treadmill",
+      "productImage": "https://i.ibb.co/vZ0rm5S/intenza-fitness-8uz-JGg-J1-3w-unsplash.jpg",
+      "description": "Foldable treadmill with built-in display and heart monitor.",
+      "price": 499.99,
+      "category": "Fitness Equipment",
+      "ratings": 4.8,
+      "creationDate": "2024-08-01T06:06:06Z"
+    },
+    {
+        "id":19,
+      "productName": "Digital Thermostat",
+      "productImage": "https://i.ibb.co/pz9y732/nordwood-themes-yy-MJNPg-Q-X8-unsplash.jpg",
+      "description": "Smart digital thermostat with WiFi and app control.",
+      "price": 129.99,
+      "category": "Home Automation",
+      "ratings": 4.6,
+      "creationDate": "2024-07-31T05:05:05Z"
+    },
+    {
+        "id":20,
+      "productName": "Cordless Vacuum Cleaner",
+      "productImage": "https://i.ibb.co/PrD3Kg7/no-revisions-cp-Ig-Naaz-Q6w-unsplash.jpg",
+      "description": "Lightweight cordless vacuum cleaner with powerful suction.",
+      "price": 149.99,
+      "category": "Home Appliances",
+      "ratings": 4.5,
+      "creationDate": "2024-07-30T04:04:04Z"
+    },
+    {
+        "id":21,
+      "productName": "Tablet Stand",
+      "productImage": "https://i.ibb.co/RjT78D3/fer-troulik-h1-IBx-J1po-O8-unsplash.jpg",
+      "description": "Adjustable stand for tablets and e-readers.",
+      "price": 19.99,
+      "category": "Accessories",
+      "ratings": 4.3,
+      "creationDate": "2024-07-29T03:03:03Z"
+    },
+    {
+        "id":22,
+      "productName": "Noise-Cancelling Earbuds",
+      "productImage": "https://i.ibb.co/p2TrNJM/vinit-vispute-Ip-Iq-Jwxdiog-unsplash.jpg",
+      "description": "True wireless earbuds with active noise cancellation.",
+      "price": 129.99,
+      "category": "Electronics",
+      "ratings": 4.7,
+      "creationDate": "2024-07-28T02:02:02Z"
+    },
+    {
+        "id":23,
+      "productName": "Smart Doorbell",
+      "productImage": "https://i.ibb.co/5B2s3F7/dan-lefebvre-RFAHj4t-I37-Y-unsplash.jpg",
+      "description": "Smart doorbell with HD video and two-way audio.",
+      "price": 199.99,
+      "category": "Home Automation",
+      "ratings": 4.6,
+      "creationDate": "2024-07-27T01:01:01Z"
+    },
+    {
+        "id":24,
+      "productName": "Electric Shaver",
+      "productImage": "https://i.ibb.co/yYWf9rY/mel-poole-q9-KF7m2vbx-A-unsplash.jpg",
+      "description": "Rechargeable electric shaver with precision blades.",
+      "price": 49.99,
+      "category": "Personal Care",
+      "ratings": 4.4,
+      "creationDate": "2024-07-26T10:10:10Z"
+    },
+    {
+        "id":25,
+      "productName": "Home Security Camera",
+      "productImage": "https://i.ibb.co/cJfXKyf/annie-spratt-t-Kla6v-T466-U-unsplash.jpg",
+      "description": "Wireless home security camera with night vision.",
+      "price": 99.99,
+      "category": "Home Automation",
+      "ratings": 4.5,
+      "creationDate": "2024-07-25T11:11:11Z"
+    },
+    {
+        "id":26,
+      "productName": "Air Purifier",
+      "productImage": "https://i.ibb.co/tJQkdg3/nubelson-fernandes-38tv-Nzb-F0ik-unsplash.jpg",
+      "description": "HEPA air purifier with 3-speed fan and timer.",
+      "price": 199.99,
+      "category": "Home Appliances",
+      "ratings": 4.8,
+      "creationDate": "2024-07-24T12:12:12Z"
+    },
+    {
+        "id":27,
+      "productName": "Smart Coffee Mug",
+      "productImage": "https://i.ibb.co/g3NS3L1/andrew-neel-TTPMp-Ll-2lc-unsplash.jpg",
+      "description": "Temperature-controlled smart coffee mug with app.",
+      "price": 39.99,
+      "category": "Accessories",
+      "ratings": 4.3,
+      "creationDate": "2024-07-23T13:13:13Z"
+    },
+    {
+        "id":28,
+      "productName": "Bluetooth Tracker",
+      "productImage": "https://i.ibb.co/vsMZJVh/phuc-h-Yky93vt-ESzo-unsplash.jpg",
+      "description": "Compact Bluetooth tracker for keys and wallets.",
+      "price": 19.99,
+      "category": "Electronics",
+      "ratings": 4.5,
+      "creationDate": "2024-07-22T14:14:14Z"
+    },
+    {
+        "id":29,
+      "productName": "Laptop Cooling Pad",
+      "productImage": "https://i.ibb.co/2qYYjXk/luca-bravo-9l-326-FISzk-unsplash.jpg",
+      "description": "Portable laptop cooling pad with adjustable fan speeds.",
+      "price": 29.99,
+      "category": "Accessories",
+      "ratings": 4.4,
+      "creationDate": "2024-07-21T15:15:15Z"
+    },
+    {
+        "id":30,
+      "productName": "Wireless Earbuds",
+      "productImage": "https://i.ibb.co/p2TrNJM/vinit-vispute-Ip-Iq-Jwxdiog-unsplash.jpg",
+      "description": "Wireless earbuds with charging case and Bluetooth 5.0.",
+      "price": 59.99,
+      "category": "Electronics",
+      "ratings": 4.6,
+      "creationDate": "2024-07-20T16:16:16Z"
+    },
+    {
+        "id":31,
+      "productName": "Portable Air Conditioner",
+      "productImage": "https://i.ibb.co/z7mRm3D/prasopchok-g-VWHKo2-D63g-unsplash.jpg",
+      "description": "Portable air conditioner with remote control.",
+      "price": 399.99,
+      "category": "Home Appliances",
+      "ratings": 4.5,
+      "creationDate": "2024-07-19T17:17:17Z"
+    },
+    {
+        "id":32,
+      "productName": "Digital Camera",
+      "productImage": "https://i.ibb.co/cJfXKyf/annie-spratt-t-Kla6v-T466-U-unsplash.jpg",
+      "description": "Compact digital camera with 20MP and 4K video recording.",
+      "price": 249.99,
+      "category": "Electronics",
+      "ratings": 4.7,
+      "creationDate": "2023-07-18T18:18:18Z"
+    },
+    {
+        "id":33,
+      "productName": "Smart Home Hub",
+      "productImage": "https://i.ibb.co/pQkt9pH/jakub-zerdzicki-q-QSyfwpd-Fk8-unsplash.jpg",
+      "description": "Smart home hub for controlling devices with voice assistant.",
+      "price": 99.99,
+      "category": "Home Automation",
+      "ratings": 4.4,
+      "creationDate": "2020-07-17T19:19:19Z"
+    },
+    {
+        "id":34,
+      "productName": "VR Headset",
+      "productImage": "https://i.ibb.co/hs6H8Nj/liam-charmer-4-Zyc0-LRb-Zmg-unsplash.jpg",
+      "description": "Virtual reality headset with motion tracking.",
+      "price": 299.99,
+      "category": "Electronics",
+      "ratings": 4.6,
+      "creationDate": "2020-07-16T20:20:20Z"
+    },
+    {
+        "id":35,
+      "productName": "Smart Ceiling Fan",
+      "productImage": "https://i.ibb.co/7knTDrC/geraldine-lewa-ud-d-Ispqee-A-unsplash.jpg",
+      "description": "WiFi-enabled smart ceiling fan with app control.",
+      "price": 249.99,
+      "category": "Home Automation",
+      "ratings": 4.5,
+      "creationDate": "2021-07-15T21:21:21Z"
+    },
+    {
+        "id":36,
+      "productName": "Noise Reduction Curtains",
+      "productImage": "https://i.ibb.co/M5MDTXF/maria-orlova-EF6z-6-R94z-Q-unsplash.jpg",
+      "description": "Noise reduction curtains for better soundproofing.",
+      "price": 89.99,
+      "category": "Home Decor",
+      "ratings": 4.3,
+      "creationDate": "2022-07-14T22:22:22Z"
+    },
+    {
+        "id":37,
+      "productName": "Selfie Stick",
+      "productImage": "https://i.ibb.co/DpRGFr2/steve-gale-e7jq0-NH9-Fbg-unsplash.jpg",
+      "description": "Extendable selfie stick with Bluetooth remote.",
+      "price": 19.99,
+      "category": "Accessories",
+      "ratings": 4.2,
+      "creationDate": "2023-07-13T23:23:23Z"
+    },
+    {
+        "id":38,
+      "productName": "Gaming Chair",
+      "productImage": "https://i.ibb.co/MVPP6X7/kadyn-pierce-Pruh-DU1m1-Yk-unsplash.jpg",
+      "description": "Ergonomic gaming chair with adjustable armrests.",
+      "price": 299.99,
+      "category": "Furniture",
+      "ratings": 4.7,
+      "creationDate": "2024-07-12T01:01:01Z"
+    },
+    {
+      "productName": "Wireless Earbuds",
+      "productImage": "https://i.ibb.co/p2TrNJM/vinit-vispute-Ip-Iq-Jwxdiog-unsplash.jpg",
+      "description": "High-quality wireless earbuds with noise-canceling feature and long battery life.",
+      "price": 149.99,
+      "category": "Electronics",
+      "ratings": 4.5,
+      "creationDate": "2024-08-15T09:30:00Z"
+    },
+    {
+      "productName": "Gaming Laptop",
+      "productImage": "https://i.ibb.co/3dTjG3h/alex-knight-j4uu-Kn-N43-M-unsplash.jpg",
+      "description": "Powerful gaming laptop with high-performance graphics and fast processing speed.",
+      "price": 1299.99,
+      "category": "Computers",
+      "ratings": 4.8,
+      "creationDate": "2024-08-16T14:45:00Z"
+    }
+    
+  ]
+  
