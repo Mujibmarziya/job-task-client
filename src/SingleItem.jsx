@@ -5,9 +5,9 @@ const SingleItem = ({product}) => {
     return (
         <div>
              <div className='border-2 rounded-xl p-3 h-auto '>
-        <div className='flex flex-col lg:flex-row gap-3 '>
-           <div className='w-full lg:w-1/4'>
-             <img className='h-full rounded-xl ' src={productImage} alt="" />
+        <div className='flex flex-col gap-3 '>
+           <div className=''>
+             <img className='h-full rounded-xl object-cover ' src={productImage} alt="" />
            </div>
            <div className='w-3/4 flex flex-col text-black gap-3'>
                <h1 className='font-bold'>Product Name:{productName}</h1>
