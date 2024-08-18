@@ -25,10 +25,7 @@ const Home = () => {
 
     // Sorting logic
     // const sortedProducts = [...filteredProducts].sort((a, b) => {
-    //     if (sortCriteria === 'Price(High to Low)') {
-    //         return b.price - a.price;
-    //     } else if (sortCriteria === 'Date(newest first)') {
-    //       // console.log(new Date(b.creationDate), new Date(a.creationDate));
+  
    
     const sortedProducts = [...filteredProducts].sort((a, b) => {
       switch (sortCriteria) {
