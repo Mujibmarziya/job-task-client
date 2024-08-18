@@ -23,8 +23,7 @@ const Home = () => {
         product.productName.toLowerCase().includes(searchQuery)
     );
 
-    // Sorting logic
-    // const sortedProducts = [...filteredProducts].sort((a, b) => {
+   
   
    
     const sortedProducts = [...filteredProducts].sort((a, b) => {
