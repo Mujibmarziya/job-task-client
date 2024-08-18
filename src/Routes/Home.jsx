@@ -29,10 +29,7 @@ const Home = () => {
     //         return b.price - a.price;
     //     } else if (sortCriteria === 'Date(newest first)') {
     //       // console.log(new Date(b.creationDate), new Date(a.creationDate));
-    //         return new Date(b.creationDate) - new Date(a.creationDate);
-    //     }
-    //     return 0;
-    // });
+   
     const sortedProducts = [...filteredProducts].sort((a, b) => {
       switch (sortCriteria) {
           case 'Price(High to Low)':
