@@ -4,7 +4,8 @@ import App from './App.jsx'
 import './index.css'
 import Authprovider from './AuthProvider/AuthProvider.jsx'
 import { RouterProvider } from 'react-router-dom'
-import { Route } from './Routes/Route.jsx'
+import { Route } from './Components/Route.jsx'
+
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
